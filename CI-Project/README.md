@@ -32,6 +32,9 @@ Now, AWS CodeBuild and CodePipeline have been set up successfully.
 After making changes to the app.py file, AWS CodePipeline is automatically triggered, subsequently triggering AWS CodeBuild to build the Docker image and push it to Docker Hub.
 Below is the screenshot showing that AWS CodePipeline has been triggered and completed successfully.
 
+![AWS CI ScreenShots drawio](https://github.com/veerababu558/AWS-Projects-001/assets/44125493/f4bc08a8-ae25-4433-9222-f95091400957)
+
+
 
 
 
