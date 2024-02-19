@@ -1,9 +1,20 @@
 # AWS Continuous Integration Demo
+
+# Project Overview:
+This project showcases the implementation of continuous integration using AWS CodeBuild and AWS CodePipeline
+
+# Prerequisites:
+AWS Account
+GitHub Account
+DockerHub Account
+
+# Project Architecture:
+
+![AWS CI Architecture Diagram drawio](https://github.com/veerababu558/AWS-Projects-001/assets/44125493/ac92d231-662f-4c39-8557-ddca53dff039)
+
 ## Steps:
 
 ## Creation AWS CodeBuild:
-
-
 - Go to the AWS Management console and navigate to AWS CodeBuild
 - Click on the “Create Project Button”.
 - Provide the name of your Build Project.
@@ -14,7 +25,6 @@
 
 
 ## Creation of AWS CodePipeline:
-
 - Go to the AWS management console and navigate to AWS CodePipeline.
 - Click on the “Create pipeline” button.
 - Provide the Pipeline name.
